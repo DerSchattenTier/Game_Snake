@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Max/AndroidStudioProjects/Sssnake/app/src/main/res/drawable-v24/style_apple.xml" value="0.1" />
+        <entry key="..\:/Users/Max/AndroidStudioProjects/Sssnake/app/src/main/res/drawable-v24/style_field.xml" value="0.1" />
+        <entry key="..\:/Users/Max/AndroidStudioProjects/Sssnake/app/src/main/res/drawable-v24/style_snake.xml" value="0.1" />
+        <entry key="..\:/Users/Max/AndroidStudioProjects/Sssnake/app/src/main/res/drawable/style_button.xml" value="0.1" />
+        <entry key="..\:/Users/Max/AndroidStudioProjects/Sssnake/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Max/AndroidStudioProjects/Sssnake/app/src/main/res/layout/activity_test.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Max/AndroidStudioProjects/Sssnake/app/src/main/res/layout/dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Max/AndroidStudioProjects/Sssnake/app/src/main/res/layout/end.xml" value="0.1" />
+        <entry key="..\:/Users/Max/AndroidStudioProjects/Sssnake/app/src/main/res/layout/screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Max/AndroidStudioProjects/Sssnake/app/src/main/res/layout/test.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
